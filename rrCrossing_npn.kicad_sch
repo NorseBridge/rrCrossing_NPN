@@ -1778,7 +1778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Library" "C:\\Users\\roberth\\Documents\\KiCad\\KiCad-Spice-Library-master\\Models\\Transistor\\BJT\\BJT.lib"
+		(property "Sim.Library" "C:\\Users\\roberth\\Documents\\KiCad\\9.0\\KiCad-Spice-Library-master\\Models\\Transistor\\BJT\\BJT.lib"
 			(at 142.24 127 0)
 			(effects
 				(font
@@ -2583,7 +2583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Library" "C:\\Users\\roberth\\Documents\\KiCad\\KiCad-Spice-Library-master\\Models\\Transistor\\BJT\\BJT.lib"
+		(property "Sim.Library" "C:\\Users\\roberth\\Documents\\KiCad\\9.0/KiCad-Spice-Library-master\\Models\\Transistor\\BJT\\BJT.lib"
 			(at 175.26 127 0)
 			(effects
 				(font
